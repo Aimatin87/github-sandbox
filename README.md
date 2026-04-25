@@ -63,7 +63,7 @@ download: https://example.com/a.zip https://example.com/b.pdf https://example.co
 Downloads all files and bundles them into one timestamped `.zip` archive saved to `downloads/`.
 
 ```
-download-zip: URL1 URL2 URL3
+download-zip: URL1 URL2 URL3. 
 ```
 
 **Examples:**
